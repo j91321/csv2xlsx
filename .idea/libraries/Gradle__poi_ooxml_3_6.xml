@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: poi-ooxml-3.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-ooxml/3.6/a465f156379acf5fc68a171beb467420deb0de04/poi-ooxml-3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-ooxml/3.6/5d8c314bb211e8c3bfe013115121d6db3d064bee/poi-ooxml-3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
